@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 I'm a **1st-year Computer Engineering** student  
-- 🧠 I'm passionate about **software development**, **algorithms**, and **problem-solving**  
+- 🧠 I'm passionate about **software development**, **embedded systems**, **AI**, **game development** and **IoT**  
 - 🚀 I'm currently learning and building projects in:
   - **Front-end** (HTML, CSS, JavaScript)
   - **Back-end** (Java, Node.js)
