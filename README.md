@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ece Gül</h1>
 <h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
 ---
@@ -36,11 +36,11 @@
 ---
 
 ### 📫 How to Reach Me
-- ✉️ Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- ✉️ Email: ecegulyuksell@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ece-g%C3%BCl-y%C3%BCksel-204970285/
 
 ---
 
 ### ⚡ Fun Fact
-> I love solving algorithmic challenges and turning ideas into code ✨
+> I love birbs ✨
 
